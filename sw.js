@@ -1,5 +1,5 @@
-/* Service worker del Arancel Orai (F-3). Versión: bb5fc9e2d823. Generado por scripts/publicar.py: no se edita. */
-const CACHE = "arancel-orai-bb5fc9e2d823";
+/* Service worker del Arancel Orai (F-3). Versión: db17f3473647. Generado por scripts/publicar.py: no se edita. */
+const CACHE = "arancel-orai-db17f3473647";
 // la página se guarda con la clave "./": Cloudflare Pages redirige /index.html a /, y el navegador no acepta servir
 // a una navegación una respuesta que vino de una redirección (sin internet la página no abriría)
 const PAGINA = "./";
